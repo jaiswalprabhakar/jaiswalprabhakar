@@ -23,14 +23,16 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://isocpp.org/" target="_blank"> <img title="C++" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://isocpp.org/" target="_blank"> <img title="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img title="ReactJS"src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img title="Java Script"src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img title="HTML5"src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img title="CSS"src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
    <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img title="Python"src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://opencv.org/" target="_blank"> <img title="Open CV"src="https://img.icons8.com/color/48/000000/opencv.png"/> </a> 
+    <a href="https://docs.ros.org/en/foxy/index.html" target="_blank"> <img title="ROS" height="48" src="assets/img/kisspng-computer-icons-menu-black-dots-5b513dec32ac05.0055889115320509242076.png"/> </a> 
 </p>
 
 <br/>
