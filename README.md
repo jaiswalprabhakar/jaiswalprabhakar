@@ -1,11 +1,12 @@
-<p align="center">
-<a href="#"><img width="50%" height="auto" src="https://cdn.dribbble.com/users/2395254/screenshots/6974793/robot.gif" height="175px"/></a>
-</p>
+
 <h1 align="center">Hi <img src="assets/img/wave.gif" width="30px">, I'm Prabhakar</h1>
 <h3 align="center">I'm a passionate ROS developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
+
+<img align="right" width="50%" height="50%" src="https://cdn.dribbble.com/users/2395254/screenshots/6974793/robot.gif" height="175px"/>
+
 
 - 🔭 I’m currently working on **[Robocon 2022](http://www.ddrobocon.in/)**
 
