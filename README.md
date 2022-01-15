@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="50%" height="auto" src="assets/img/hello.png" height="175px"/></a>
+<a href="#"><img width="50%" height="auto" src="https://cdn.dribbble.com/users/2395254/screenshots/6974793/robot.gif" height="175px"/></a>
 </p>
 <h1 align="center">Hi <img src="assets/img/wave.gif" width="30px">, I'm Prabhakar</h1>
 <h3 align="center">I'm a passionate ROS developer from India.</h3>
