@@ -8,7 +8,7 @@
 <img align="right" width="50%" height="50%" src="https://cdn.dribbble.com/users/2395254/screenshots/6974793/robot.gif" height="175px"/>
 
 
-- 🔭 I’m currently working on **[Robocon 2022](http://www.ddrobocon.in/)**
+- 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
