@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi <img src="assets/img/wave.gif" width="30px">, I'm Prabhakar</h1>
-<h3 align="center">I'm a passionate ROS developer from India.</h3>
+<h3 align="center">Electrical Engineer | NIT Surat 2023</h3>
 
 
 ## 🙋‍♂️ About Me
 
-<img align="right" width="50%" height="50%" src="https://cdn.dribbble.com/users/2395254/screenshots/6974793/robot.gif" height="175px"/>
+<img align="right" width="50%" height="50%" src="./assets/img/coding.gif" height="175px"/>
 
+<!--- - 🔭 I’m currently working on **[Robocon 2022](http://www.ddrobocon.in/)** -->
 
-- 🔭 I’m currently working on **[Robocon 2022](http://www.ddrobocon.in/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://jaiswalprabhakar.github.io)**
 
-- 📫 How to reach me **prabhakarjaiswal8083430254@gmail.com**
+- 📫 How to reach me **[Mail](prabhakarjaiswal8083430254@gmail.com)**
 
 - ⚡ Fun fact **I love to spend time alone thinking about atoms ⚛ and stars🌟**
 
@@ -25,11 +25,13 @@
 <p align="left"> 
     <a href="https://isocpp.org/" target="_blank"> <img title="C++" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://isocpp.org/" target="_blank"> <img title="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img title="ReactJS"src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> 
+    <!--<img title="ReactJS"src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img title="Java Script"src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img title="HTML5"src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img title="CSS"src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-   <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
+    <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"> <img title ="STMicroelectronics"src="https://upload.wikimedia.org/wikipedia/commons/1/17/STMicroelectronics-Logo.svg" width="50" height= "40"  /> </a>
     <a href="https://www.python.org" target="_blank"> <img title="Python"src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://opencv.org/" target="_blank"> <img title="Open CV"src="https://img.icons8.com/color/48/000000/opencv.png"/> </a> 
     <a href="https://docs.ros.org/en/foxy/index.html" target="_blank"> <img title="ROS" height="48" src="assets/img/kisspng-computer-icons-menu-black-dots-5b513dec32ac05.0055889115320509242076.png"/> </a> 
@@ -64,8 +66,9 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/prabhakar-jaiswal-463673198/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/_jaiswal_prabhakar_/"><img src="https://img.icons8.com/ios-glyphs/48/000000/instagram-new.png"/></a>
 <a href = "mailto:prabhakarjaiswal8083430254@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+
+<!--<a href = "https://www.instagram.com/_jaiswal_prabhakar_/"><img src="https://img.icons8.com/ios-glyphs/48/000000/instagram-new.png"/></a> -->
 
 
 </p>
