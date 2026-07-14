@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="assets/img/wave.gif" width="30px">, I'm Prabhakar</h1>
-<h3 align="center">Electrical Engineer | NIT Surat 2023</h3>
+<h3 align="center">Engineer | IITB 29' ICS | NIT Surat 23' EE</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -10,15 +10,15 @@
 <!--- - 🔭 I’m currently working on **[Robocon 2022](http://www.ddrobocon.in/)** -->
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Integrated Circuits and Systems**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://jaiswalprabhakar.github.io)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://jaiswalprabhakar.github.io/academic_portfolio)**
 
 - 📫 How to reach me **[Mail](prabhakarjaiswal8083430254@gmail.com)**
 
-- ⚡ Fun fact **I love to spend time alone thinking about atoms ⚛ and stars🌟**
+- ⚡ Fun fact **I like 😼Cats🐾**
 
 ## 🚀 Languages and Tools:
 
