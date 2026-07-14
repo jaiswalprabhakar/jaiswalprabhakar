@@ -1,80 +1,72 @@
-
-<h1 align="center">Hi <img src="assets/img/wave.gif" width="30px">, I'm Prabhakar</h1>
-<h3 align="center">Engineer | IITB 29' ICS | NIT Surat 23' EE</h3>
-
-
-## 🙋‍♂️ About Me
-
-<img align="right" width="50%" height="50%" src="./assets/img/coding.gif" height="175px"/>
-
-<!--- - 🔭 I’m currently working on **[Robocon 2022](http://www.ddrobocon.in/)** -->
-
-
-- 🌱 I’m currently learning **Integrated Circuits and Systems**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://jaiswalprabhakar.github.io/academic_portfolio)**
-
-- 📫 How to reach me **[Mail](prabhakarjaiswal8083430254@gmail.com)**
-
-- ⚡ Fun fact **I like 😼Cats🐾**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://isocpp.org/" target="_blank"> <img title="C++" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://isocpp.org/" target="_blank"> <img title="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-    <!--<img title="ReactJS"src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img title="Java Script"src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img title="HTML5"src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img title="CSS"src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
-    <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"> <img title ="STMicroelectronics"src="https://upload.wikimedia.org/wikipedia/commons/1/17/STMicroelectronics-Logo.svg" width="50" height= "40"  /> </a>
-    <a href="https://www.python.org" target="_blank"> <img title="Python"src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://opencv.org/" target="_blank"> <img title="Open CV"src="https://img.icons8.com/color/48/000000/opencv.png"/> </a> 
-    <a href="https://docs.ros.org/en/foxy/index.html" target="_blank"> <img title="ROS" height="48" src="assets/img/kisspng-computer-icons-menu-black-dots-5b513dec32ac05.0055889115320509242076.png"/> </a> 
-</p>
-
-<br/>
+<h1 align="center">Hi there, I'm Prabhakar 👋</h1>
 
 <p align="center">
-    <a href="https://github.com/jaiswalprabhakar/github-readme-streak-stats">
-        <img title="Prabhakar's streak" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswalprabhakar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BCDEC&center=true&vCenter=true&width=600&lines=Engineer+%7C+IITB+ICS+%2729;NIT+Surat+EE+%2723;Embedded+Systems+%26+Robotics;OpenCV+%7C+ROS+%7C+STM32;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
-## 📊 My Github Stats
+<p align="center">
+  <a href="https://www.linkedin.com/in/prabhakar-jaiswal-463673198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:prabhakarjaiswal8083430254@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://jaiswalprabhakar.github.io/academic_portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
 
-  <br/>
-    <a href="https://github.com/jaiswalprabhakar/github-readme-stats"><img alt="Prabhakar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaiswalprabhakar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/jaiswalprabhakar/github-readme-stats"><img alt="Prabhakar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswalprabhakar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+---
+<img align="right" width="45%" src="./assets/img/coding.gif"/>
+### 🙋‍♂️ About Me
+
+- 🎓 **IITB '29 ICS**  | **NIT Surat '23 EE** 
+- 🌱 Currently diving deeper into **Integrated Circuits and Systems**
+- 👯 Open to collaborating on **open-source projects**
+- 👨‍💻 Full project list on my **[Portfolio](https://jaiswalprabhakar.github.io/academic_portfolio)**
+- 📫 Reach me at **prabhakarjaiswal8083430254@gmail.com**
+- ⚡ Fun fact: I like 😼 cats 🐾
 
 
-<br/>
-<br/>
 
-<a href="https://github.com/jaiswalprabhakar/github-readme-activity-graph"><img alt="Prabhakar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jaiswalprabhakar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+### 🚀 Languages & Tools
 
-<br/>
-<br/>
-
-## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/prabhakar-jaiswal-463673198/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:prabhakarjaiswal8083430254@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-
-<!--<a href = "https://www.instagram.com/_jaiswal_prabhakar_/"><img src="https://img.icons8.com/ios-glyphs/48/000000/instagram-new.png"/></a> -->
-
-
+  <img title="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img title="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img title="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img title="OpenCV" src="https://img.icons8.com/color/48/000000/opencv.png"/>
+  <img title="STMicroelectronics" src="https://upload.wikimedia.org/wikipedia/commons/1/17/STMicroelectronics-Logo.svg" width="50" height="40"/>
+  <img title="ROS" height="48" src="assets/img/kisspng-computer-icons-menu-black-dots-5b513dec32ac05.0055889115320509242076.png"/>
 </p>
 
-## ❤ Views and Followers
-<a href="">
-    <img src="https://komarev.com/ghpvc/?username=jaiswalprabhakar">
-</a>
-<a href="https://github.com/jaiswalprabhakar?tab=followers"><img src="https://img.shields.io/github/followers/jaiswalprabhakar?label=Followers&style=social" alt="GitHub Badge"></a>
+<br clear="right"/>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+ <img src="./profile/stats.svg" height="200"/>
+<img src="./profile/top-langs.svg" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswalprabhakar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiswalprabhakar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+</p>
+
+<sub>Note: language stats reflect public code only and aren't a measure of skill or experience.</sub>
+
+---
+### 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg"/>
+</p>
+
+---
+
+### ❤️ Views & Followers
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jaiswalprabhakar"/>
+  <img src="https://img.shields.io/github/followers/jaiswalprabhakar?label=Followers&style=social"/>
+</p>
