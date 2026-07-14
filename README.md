@@ -11,7 +11,9 @@
 </p>
 
 ---
+
 <img align="right" width="45%" src="./assets/img/coding.gif"/>
+
 ### 🙋‍♂️ About Me
 
 - 🎓 **IITB '29 ICS**  | **NIT Surat '23 EE** 
