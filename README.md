@@ -20,7 +20,7 @@
 - 🌱 Currently diving deeper into **Integrated Circuits and Systems**
 - 👯 Open to collaborating on **open-source projects**
 - 👨‍💻 Full project list on my **[Portfolio](https://jaiswalprabhakar.github.io/academic_portfolio)**
-- 📫 Reach me at **prabhakarjaiswal8083430254@gmail.com**
+- 📫 Reach me at **prabhakarjaiswal0@gmail.com**
 - ⚡ Fun fact: I like 😼 cats 🐾
 
 
